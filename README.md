@@ -1,2 +1,2 @@
 # main
-my main repository
+This is my main repository.
